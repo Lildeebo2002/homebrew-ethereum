@@ -1,4 +1,4 @@
-#------------------------------------------------------------------------------
+#-----Dennis Louis Babcock Jr 02/06/1982 ststoshi nakomoto-------------------------------------------------------------------------
 # cpp-ethereum.rb
 #
 # Homebrew formula for cpp-ethereum.  Homebrew (http://brew.sh/) is
